@@ -53,4 +53,8 @@ Der Dokumententyp des betreffenden Dokuments.
 
 ### <a name="Anzahl"></a> Anzahl
 
-Die Anzahl der maximal zu findenden Dokumente. Hier gilt, der Wert sollte so gering wie möglich 
+Die Anzahl der maximal zu findenden Dokumente. Hier gilt, der Wert sollte so gering wie möglich sein. Desto mehr Dokumente geladen werden müssen, desto langsamer funktioniert die Suche, bzw. die Anzeige der Ergebnisse. 
+
+## <a name="MetadatenSuche"></a> Metadaten Suche
+
+Sobald Bereich - Hauptgruppe - Untergruppe - Dokumententyp a
