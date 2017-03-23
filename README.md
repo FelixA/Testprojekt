@@ -19,7 +19,7 @@ Sollten Sie sich im falschen Mandanten befinden, so können Sie diesen durch ein
 
 Statt das Häckchen auf "Exakt" zu setzen, kann der Suchtext auch in Gänsefüßchen "" gepackt werden.
 
-#### <a name="direkteSucheNachKENr"></a> direkte Suche Nach KE Nr
+#### <a name="direkteSucheNachKENr"></a> Direkte Suche Nach KE Nr
 
 Plathalter suche-ke-direkt.png
 
