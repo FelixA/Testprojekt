@@ -17,7 +17,13 @@ Sollten Sie sich im falschen Mandanten befinden, so können Sie diesen durch ein
 ### <a name="TippsundTricks"></a> Tipps und Tricks
 #### <a name="SchnelleexakteSuche"></a> Schnelle exakte Suche
 
-Statt das Häckchen auf "Exakt" zu setzen, kann der Suchtext auch in Gänsefüßchen "" gepackt werden. 
+Statt das Häckchen auf "Exakt" zu setzen, kann der Suchtext auch in Gänsefüßchen "" gepackt werden.
+
+#### <a name="direkteSucheNachKENr"></a> direkte Suche Nach KE Nr
+
+Plathalter suche-ke-direkt.png
+
+Es ist möglich direkt nach einer KE Nr. zu suchen. Dazu kann diese einfach in das Feld KE Identifikation eingetragen werden, welches in Abbildung XX dargestellt wird.
 
 ### <a name="Suchbegriffe"></a> Suchbegriffe
 
@@ -57,4 +63,16 @@ Die Anzahl der maximal zu findenden Dokumente. Hier gilt, der Wert sollte so ger
 
 ## <a name="MetadatenSuche"></a> Metadaten Suche
 
-Sobald Bereich - Hauptgruppe - Untergruppe - Dokumententyp a
+Sobald Bereich - Hauptgruppe - Untergruppe - Dokumententyp ausgewählt wurden, kann eine Suche anhand von Metadaten durchgeführt werden. Diese variiert von Dokumententyp zu Dokumententyp, da diese spezifische Metadaten besitzen.
+
+Platzhalter suche-metadaten.png
+
+Wie in Abbildung X zu sehen ist, wurden 17 Einträge aus dem:
+Bereich Umspannwerke
+Hauptgruppe Handakte
+Untergruppe Übergreifend
+Dokumenttyp Ü - Handakte - Übergreifend
+
+mit den Metadatensätzen:
+UW-Kürzel GROGH
+und Langtext Schriftverkehr gefunden
