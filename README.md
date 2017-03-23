@@ -61,18 +61,26 @@ Der Dokumententyp des betreffenden Dokuments.
 
 Die Anzahl der maximal zu findenden Dokumente. Hier gilt, der Wert sollte so gering wie möglich sein. Desto mehr Dokumente geladen werden müssen, desto langsamer funktioniert die Suche, bzw. die Anzeige der Ergebnisse. 
 
-## <a name="MetadatenSuche"></a> Metadaten Suche
+## <a name="DefinierteMetadatenSuche"></a> Definierte Metadaten Suche
 
-Sobald Bereich - Hauptgruppe - Untergruppe - Dokumententyp ausgewählt wurden, kann eine Suche anhand von Metadaten durchgeführt werden. Diese variiert von Dokumententyp zu Dokumententyp, da diese spezifische Metadaten besitzen.
+Sobald 
+- Bereich 
+- Hauptgruppe 
+- Untergruppe 
+- Dokumententyp 
+
+ausgewählt wurden, kann eine Suche anhand von Metadaten durchgeführt werden. Diese variiert von Dokumententyp zu Dokumententyp, da diese spezifische Metadaten besitzen.
 
 Platzhalter suche-metadaten.png
 
 Wie in Abbildung X zu sehen ist, wurden 17 Einträge aus dem:
-Bereich Umspannwerke
-Hauptgruppe Handakte
-Untergruppe Übergreifend
-Dokumenttyp Ü - Handakte - Übergreifend
+- Bereich Umspannwerke
+- Hauptgruppe Handakte
+- Untergruppe Übergreifend
+- Dokumenttyp Ü - Handakte - Übergreifend 
 
 mit den Metadatensätzen:
-UW-Kürzel GROGH
-und Langtext Schriftverkehr gefunden
+- UW-Kürzel GROGH
+- und Langtext Schriftverkehr gefunden
+
+## <a name="UndefinierteMetadatenSuche"></a> Undefinierte Metadaten Suche
