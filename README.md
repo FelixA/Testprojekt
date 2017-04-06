@@ -23,11 +23,8 @@ Statt das Häckchen auf "Exakt" zu setzen, kann der Suchtext auch in Gänsefüß
 
 Sobald eine Datei angeklickt wurde, verfärbt sich der Hyperlink von Blau in Rot.
 Dies bleibt für mehrere Sessions bestehen, d.h. auch wenn der Internet Explorer geschlossen und neu geöffnet wird, bleibt der Link als besucht markiert. Möchten Sie die Speicherung der besuchten Links zurücksetzen, so können Sie das über den Internet Explorer mit Mausklick auf "Sicherheit" --> "Browserverlauf löschen". 
+
 Vorsicht: Dieser Befehl löscht den gesamten Verlauf des Browsers!
-
-
-
-Statt das Häckchen auf "Exakt" zu setzen, kann der Suchtext auch in Gänsefüßchen "" gepackt werden.
 
 #### <a name="direkteSucheNachKENr"></a> Direkte Suche Nach KE Nr
 
