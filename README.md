@@ -90,6 +90,6 @@ mit den Metadatensätzen:
 - UW-Kürzel GROGH
 - und Langtext Schriftverkehr gefunden
 
-## <a name="UndefinierteMetadatenSuche"></a> Undefinierte Metadaten Suche
+## <a name="UndefinierteMetadatenSuche"></a> Unspezifische Metadaten Suche
 Wird der Dokumenttyp nicht ausgewählt, so lässt sich eine Metadaten Suche über alle Dokumenttypen durchführen.
 Hierbei lassen sich bis zu drei Attribute auswählen, nach denen exakt, oder vage gesucht werden können.
