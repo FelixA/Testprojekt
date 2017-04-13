@@ -31,7 +31,7 @@ Vorsicht: Dieser Befehl löscht den gesamten Verlauf des Browsers!
 
 Plathalter suche-ke-direkt.png
 
-Es ist möglich direkt nach einer KE Nr. zu suchen. Dazu kann diese einfach in das Feld KE Identifikation eingetragen werden, welches in Abbildung XX dargestellt wird.
+Es ist möglich direkt nach einer KE Nr. zu suchen. Dazu kann diese einfach in das Feld KE Identifikation eingetragen werden, welches in Abbildung XX dargestellt wird. 
 
 ### <a name="Suchbegriffe"></a> Suchbegriffe
 
@@ -41,8 +41,6 @@ Sucht man beispielsweise nach Holz, so erhält man eine Liste an Ergebnissen, di
 Platzhalter suche-holz.png
 
 Dabei ist der Begriff immer nur nach rechts vage, d.h. Begriffe Holzbau oder Holzmast werden der Ergebnisliste hinzugefügt, ein Begriff wie Unterholz wird nicht in die Ergebnisliste aufgenommen. 
-
-####<a name="Besonderheiten"></a> Besonderheiten
 
 ### <a name="Identifikation"></a> Identifikation
 
