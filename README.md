@@ -88,3 +88,32 @@ Der Dokumententyp des betreffenden Dokuments.
 ### <a name="Anzahl"></a> Anzahl
 Die Anzahl der maximal zu findenden Dokumente. Hier gilt, der Wert sollte so gering wie möglich sein. Desto mehr Dokumente geladen werden müssen, desto langsamer funktioniert die Suche, bzw. die Anzeige der Ergebnisse. 
 
+### <a name="KENr"></a> KE Nummer
+- Steht für „kleinste Einheit“
+- Ist die eindeutig, zugewiesene Identifikationsnummer eines Dokuments
+- Jedes Dokument in der VEA besitzt eine KE-Nummer
+
+### <a name="SNr"></a> S Nummer
+- Steht für „Sammler Nummer“
+- Ist eine semantische Abgrenzung zwischen den Dokumenten
+- Kann man sich vorstellen, wie eine Registerkarte innerhalb eines Ordners
+- Eine S Nummer kann mehrere KE Nummer beinhalten
+
+### <a name="Status"></a> Status
+- der Status beschreibt den Zustand des Dokuments
+- Es gibt 4 verschiedene Statuszustände: Herausgenommen, Ersetzt, Außer Haus, Aktuell
+- Herausgenommen: Dokument ist offiziell nicht mehr relevant
+- Ersetzt: Dokument ist obsolet, es wird ein Nachfolgedokument kommen
+- Außer Haus: Dokument ist an Dritte weitergegeben worden
+- Aktuell: Dokument ist auf dem neusten Stand
+
+### <a name="Dokumententyp"></a> Dokumententyp
+- Unter Dokumententypen versteht man die fachliche Eingrenzungen und Zugehörigkeiten eines Dokuments
+- Darunter zählen die Attribute: Bereich, Haupt- und Untergruppe
+- Beispiel wären hierfür: Primärtechnik, Sekundärtechnik, Handakte, Bauakte, Schaltbuch etc.
+
+### <a name="Metadaten"></a> Metadaten
+- Hierbei handelt es sich um beschreibende Daten
+- Diese Daten befassen sich mit dem technischen Inhalt der innerhalb des Dokuments steht
+- Eine Art Zusammenfassung des Dokuments
+
